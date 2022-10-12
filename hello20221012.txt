@@ -9,5 +9,5 @@ hello8
 hell09 conflictMergeBranch
 hello10
 hello11
-hello12branch
+hello12BBranch
 hello13conflictMergeHot0000000000
